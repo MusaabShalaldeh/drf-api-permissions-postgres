@@ -9,9 +9,9 @@ Clone this repository to your local machine. [git@github.com:MusaabShalaldeh/drf
 Then, install all required dependencies by typing:
 
 ```bash
-$ Poetry Install
+$ docker-compose up
 ```
-Load up the project using your favorite IDE.
+The project will be loaded and then head to this IP: http://localhost:8000/
 
 ### Change log:
 Version 0.1.0, intial functionality
